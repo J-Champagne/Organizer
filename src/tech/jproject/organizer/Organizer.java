@@ -1,3 +1,5 @@
+package tech.jproject.organizer;
+
 /**
  * Created by jackchampagne on 8/31/16.
  * V Alpha 0.0.1
@@ -13,5 +15,9 @@
  */
 
 public class Organizer {
+
+    public static void main(String[] args) {
+
+    }
 
 }
